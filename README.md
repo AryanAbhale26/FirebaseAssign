@@ -23,7 +23,7 @@ Lame AI offers an intelligent chatbot experience where users can have real-time 
 
 3. **Clone the Repository**:
    ```
-   git clone git clone https://github.com/AryanAbhale26/LameAI.git
+   git clone https://github.com/AryanAbhale26/LameAI.git](https://github.com/AryanAbhale26/FirebaseAssign.git
    ```
 5. **Navigate into the Project Directory**:
    ```
