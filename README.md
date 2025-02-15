@@ -1,4 +1,4 @@
-f# Firebase Support Ticket System
+# Firebase Support Ticket System
 
 The Firebase Support Ticket System is a React-based web application that enables users to manage customer support tickets efficiently. It features role-based authentication using Firebase Authentication (Customers & Support Agents) and Firestore for storing tickets and user data. Customers can create, update, and delete tickets, while Admins can view all submitted queries. The system supports Google Sign-In, file uploads via Firebase Storage, and real-time data synchronization for a seamless support experience.
 
@@ -17,7 +17,7 @@ The Firebase Support Ticket System is a React application designed to streamline
 - Customers can log in, create, update, and delete tickets to report issues.
 - Admins have a dedicated dashboard to view all queries, update ticket status, and assign tasks to Support Agents for resolution.
 - Support Agents can access assigned tickets and work on resolving customer issues.
-- 
+
 The system uses Firebase Authentication for secure login and Firestore for real-time data storage and updates. It also supports Google Sign-In for seamless authentication. Powered by Firebase, the system efficiently handles authentication, database interactions, and role-based ticket management.
 
 ## Installation
@@ -29,7 +29,7 @@ The system uses Firebase Authentication for secure login and Firestore for real-
 
 3. **Clone the Repository**:
    ```
-   git clone https://github.com/AryanAbhale26/LameAI.git](https://github.com/AryanAbhale26/FirebaseAssign.git
+    git clone https://github.com/AryanAbhale26/FirebaseAssign.git
    ```
 5. **Navigate into the Project Directory**:
    ```
@@ -41,13 +41,14 @@ The system uses Firebase Authentication for secure login and Firestore for real-
  
 ## Usage
 
-2. **Start the Project **:
+1. **Start the Project **:
    ```
    npm run dev
    ```
 
-3. **Open the Application**:
+2. **Open the Application**:
    Once the server starts, open http://localhost: in your browser to view the app.
+
 
 ## Glimpse
 
