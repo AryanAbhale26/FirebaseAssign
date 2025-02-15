@@ -12,7 +12,13 @@ The Firebase Support Ticket System is a React-based web application that enables
 
 ## Project Description
 
-Lame AI offers an intelligent chatbot experience where users can have real-time conversations with an AI model. Users can log in via Clerk authentication, ensuring secure access. Every chat is stored in MongoDB, allowing users to review past conversations. The backend, built with Node.js, manages authentication, chat storage, and API requests, while the frontend delivers an intuitive and engaging user interface.
+The Firebase Support Ticket System is a React application designed to streamline customer support management. It features separate logins and dashboards for Admins and Customers, ensuring clear role-based access.
+
+- Customers can log in, create, update, and delete tickets to report issues.
+- Admins have a dedicated dashboard to view all queries, update ticket status, and assign tasks to Support Agents for resolution.
+- Support Agents can access assigned tickets and work on resolving customer issues.
+- 
+The system uses Firebase Authentication for secure login and Firestore for real-time data storage and updates. It also supports Google Sign-In for seamless authentication. Powered by Firebase, the system efficiently handles authentication, database interactions, and role-based ticket management.
 
 ## Installation
 
