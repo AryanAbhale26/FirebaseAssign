@@ -1,4 +1,4 @@
-# Firebase Support Ticket System
+f# Firebase Support Ticket System
 
 The Firebase Support Ticket System is a React-based web application that enables users to manage customer support tickets efficiently. It features role-based authentication using Firebase Authentication (Customers & Support Agents) and Firestore for storing tickets and user data. Customers can create, update, and delete tickets, while Admins can view all submitted queries. The system supports Google Sign-In, file uploads via Firebase Storage, and real-time data synchronization for a seamless support experience.
 
@@ -45,9 +45,13 @@ Lame AI offers an intelligent chatbot experience where users can have real-time 
 
 ## Glimpse
 
+https://github.com/user-attachments/assets/719d16a8-db30-4885-a1c8-22e32697aa30
 
 
-https://github.com/user-attachments/assets/b0c9fc8b-99d9-4b99-8afc-2c4fe6c868f5
+
+
+
+
 
 
 
