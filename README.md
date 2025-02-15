@@ -41,7 +41,7 @@ The system uses Firebase Authentication for secure login and Firestore for real-
  
 ## Usage
 
-1. **Start the Project **:
+1. **Start the Project**:
    ```
    npm run dev
    ```
